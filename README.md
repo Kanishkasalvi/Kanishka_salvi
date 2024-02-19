@@ -12,4 +12,4 @@ I'm thrilled to present my latest Power BI project, where I have delved into the
   I have crafted visually appealing dashboards, styles, and reports in Power BI Desktop to provide a detailed overview of Netflix's stock market performance.
 
 
-I look forward to sharing more insights and details about this project. Stay tuned for further updates, and feel free to reach out if you'd like to learn more about this project or discuss potential collaborations!# Kanishka_salvi
+I look forward to sharing more insights and details about this project. Stay tuned for further updates, and feel free to reach out if you'd like to learn more about this project or discuss potential collaborations!
